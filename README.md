@@ -1,6 +1,6 @@
 # sys6018-competition-revenue-prediction
 
-Team Name: C4-4
+# Team Name: C4-4
 -
 
 # Description:
